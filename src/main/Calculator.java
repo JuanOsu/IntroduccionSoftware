@@ -1,7 +1,7 @@
 package main;
 import java.util.List;
 /**
-* Class for mathematics calculations
+* Class for mathematics  calculations
 *
 */
 	public class Calculator {
